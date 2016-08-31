@@ -69,8 +69,8 @@
         
       "role" : {
         "type" : "soldier",
-        "name" : "Commando",
-        "field" : "Hazardous Travel",
+        "name" : "Beast Hunter",
+        "field" : "Hunter/Gatherer",
         "uniformColorIndex" : 1
       },
 
